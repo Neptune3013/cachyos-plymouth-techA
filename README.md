@@ -8,18 +8,18 @@ Reduced animation frames to make it load quicker.
 ## Manual Installation
 
 1. Clone repo
-   ''' git clone https://github.com/Neptune3013/cachyos-plymouth-techA.git '''
+   ' git clone https://github.com/Neptune3013/cachyos-plymouth-techA.git '
 
 3. Copy into plymouth themes dir
    cd into src dir and run
-   ''' sudo cp -r cachyos-bootanimation-TechA /usr/share/plymouth/themes/ '''
+   ' sudo cp -r cachyos-bootanimation-TechA /usr/share/plymouth/themes/ '
 
 ## Set the theme (Arch)
 
 1. Set it
-   ''' sudo plymouth-set-default-theme -R cachyos-bootanimation-TechA '''
+   ' sudo plymouth-set-default-theme -R cachyos-bootanimation-TechA '
    
 
 3. Test it
-   ''' sudo plymouthd ; sudo plymouth --show-splash ; sleep 5 ; sudo killall plymouthd '''
+   ' sudo plymouthd ; sudo plymouth --show-splash ; sleep 5 ; sudo killall plymouthd '
    
