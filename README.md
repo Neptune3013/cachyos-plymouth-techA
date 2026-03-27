@@ -1,6 +1,6 @@
 # CachyOS Plymouth Theme with Tech A throbber
 
-Forked from [CachyOS Plymouth Theme](https://github.com/CachyOS/cachyos-plymouth-theme)
+Forked from [CachyOS Plymouth Theme](https://github.com/CachyOS/cachyos-plymouth-theme) and the [Tech A](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/78.gif)
 Throbber from [Plymouth themes by](https://github.com/adi1090x/plymouth-themes?tab=readme-ov-file0) by [adi1090x](https://github.com/adi1090x)
 
 Reduced animation frames to make it load quicker.
