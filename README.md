@@ -18,7 +18,7 @@ Reduced animation frames to make it load quicker.
    
 
    ```
-   cd src
+   cd cachyos-plymouth-techA/src
    sudo cp -r cachyos-bootanimation-TechA /usr/share/plymouth/themes/
    ```
    
