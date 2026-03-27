@@ -31,7 +31,7 @@ Reduced animation frames to make it load quicker.
    
 
 3. Test it
-   '''
+   ```
    sudo plymouthd ; sudo plymouth --show-splash ; sleep 5 ; sudo killall plymouthd
-   '''
+   ```
    
