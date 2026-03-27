@@ -1,3 +1,6 @@
-# CachyOS Plymouth Theme
+# CachyOS Plymouth Theme with Tech A throbber
 
-Jimmac's spinner theme using the ACPI BGRT graphics as background with CachyOS branding
+Forked from [CachyOS Plymouth Theme (https://github.com/CachyOS/cachyos-plymouth-theme)]
+Throbber from [Plymouth themes by (https://github.com/adi1090x/plymouth-themes?tab=readme-ov-file0] by [adi1090x(https://github.com/adi1090x)]
+
+Reduced animation frames to make it quicker.
