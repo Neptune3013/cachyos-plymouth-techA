@@ -5,6 +5,9 @@ Throbber from [Plymouth themes by](https://github.com/adi1090x/plymouth-themes?t
 
 Reduced animation frames to make it load quicker.
 
+## Preview
+https://github.com/user-attachments/assets/3c0ea9c7-bf71-4e88-ac62-c2ed5070c0a3
+
 ## Manual Installation
 
 1. Clone repo
